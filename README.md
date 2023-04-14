@@ -21,6 +21,8 @@ The address of the tunnel is visible on the CLI output as well as appended to th
 
 ![screenshot.png](screenshot.png)
 
+An example is available in `.github/workflows/example.yaml` which allows https access to the webserver running in the container inside github actions.
+
 ## Official Documentation
 Official documentation for this project can be found at:
 - https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/
